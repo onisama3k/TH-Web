@@ -35,7 +35,7 @@ if (window.gioHangScriptLoaded) {
       position: "fixed",
       bottom: "20px",
       right: "20px",
-      background: "#28a745",
+      background: "#221FC6",
       color: "#fff",
       padding: "10px 20px",
       borderRadius: "8px",
